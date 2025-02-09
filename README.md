@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @sid-ghosh
-- 👀 
+- 👋 Hi, I’m Sidhant
 - 📫 Reach me - sidhantghosh15@gmail.com
 
